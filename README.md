@@ -9,6 +9,7 @@ Paradigmas:
  - SMA
 
 **!! *Não coloque os nomes dos alunos no título do repositório*. !!**
+
 **!! *Exemplo de título correto: 2020.1_G1_Logico_ProjetoRoteirosAereos*. !!**
  
  (Apague essa seção)
